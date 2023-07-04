@@ -1,0 +1,18 @@
+
+- name: Python
+  weight: 2
+
+- name: HTML5
+  weight: 4
+
+- name: CSS3
+  weight: 3
+
+#- name: Kotlin
+#  weight: 1
+
+- name: C++
+  weight: 2
+
+- name: Ruby
+  weight: 2
