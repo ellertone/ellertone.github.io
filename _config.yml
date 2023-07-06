@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: shawn-phy
+title: Ellertone
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website built with jekyll
 # baseurl: The subpath of your site
@@ -14,13 +14,13 @@ username: shawn-phy
 # typing_text: This will be typed before 'scroll down for more'.
 typing_text: Student Engineer 
 # email: Your E-Mail address for the email button.
-email: philipoyuga14@gmail.com
+email: ellertonemain@gmail.com
 # For every social button you want to display, set your username or userid
-github_username: shawn-phy
-codepen_username: shawn-phy
+github_username: ellertone
+
 dev_username: shawn_phy
-linkedin_username: shawn-philip-31361a210
-twitter_username: OyugaPhilip
+linkedin_username: ellertone-ongoki
+twitter_username: just_ellerton
 
 # ABOUT ME SECTION
 show_aboutme_card: true
@@ -66,7 +66,7 @@ contact_title: Contact
 contact_description: Reach out via any of the following and Lets connect to build beautiful things ❤️!
 
 # GITHUB-METADATA
-repository: shawn-phy/shawn-phy.github.io
+repository: ellertone/ellertone.github.io
 projects:
   sort_by: pushed
   exclude:
