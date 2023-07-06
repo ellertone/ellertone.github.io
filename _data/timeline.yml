@@ -1,21 +1,21 @@
 
 - title: Gearbox industries 
   title-url: https://www.gearbox.co.ke/
-  date: May 2022 - Jul 2022
-  subtitle: junior machine learning intern
+  date: May 2022 - August 2022
+  subtitle: Junior Machine Learning intern
   tags:
     - tag: Python
     - tag: Keras
     - tag: Tensorflow 
-    - tag: Web Development 
+    - tag: OpenCV
   timeline-side: right
 
 - title: JKUAT 
   title-url: https://www.jkuat.ac.ke/
   date: 2020 - present 
-  subtitle: B.Sc in Electronic And Computer Engineering
+  subtitle: B.Sc in Electric And Computer Engineering
   tags: 
-    - tag: Electronic And Computer Engineering
+    - tag: Electric And Computer Engineering
   timeline-side: left
 
 
@@ -29,8 +29,8 @@
     - tag: R 
   timeline-side: right
 
-- title: Maranda High School
+- title: Rapogi High School
  # title-url: 
-  date: 2017 - 2019
-  subtitle: My High school 
+  date: 2016 - 2019
+  subtitle:  High school 
   timeline-side: left

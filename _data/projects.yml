@@ -6,7 +6,7 @@
      - tag: Avionics 
 
      
-- name: converting a 24 year old pc into a media server 
+- name: Converting a 24 year old pc into a media server 
   descr: "The end result involved eventually upgrading our digital tv to a smart tv by using Plex"
  # demo: https://example.com/
   tags:
@@ -24,8 +24,6 @@
     - tag: Raspberry PI
     - tag: UX/UI design
 
-- name: just another modd(JAM)
-  descr: "Involved the modding of whatsapp and rooting my phone to enbale chatting with people via the CLI on android! It was also implemented on android studio emulator"
 
 - name: Door authentication using RFID and Arduino  
   descr: "User authentication to grant access to only specific people with specific RFID cards. Each user had their own unique card"

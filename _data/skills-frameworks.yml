@@ -1,15 +1,12 @@
 
-#- name: Angular
-#  weight: 5
-
-#- name: AngularJS
-#  weight: 3
-
 - name: React
   weight: 4
 
-- name: Node
-  weight: 1
+- name: Express
+  weight: 2
+  
+- name: Spring
+  weight: 3
 
 #- name: Flutter
 #  weight: 2
@@ -17,5 +14,5 @@
 #- name: Express
 #  weight: 3
 
-- name: Django
+- name: DjangoREST
   weight: 3
