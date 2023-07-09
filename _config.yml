@@ -18,7 +18,7 @@ email: ellertonemain@gmail.com
 # For every social button you want to display, set your username or userid
 github_username: ellertone
 
-dev_username: ELlertone Ongoki
+dev_username: Ellertone Ongoki
 linkedin_username: ellertone-ongoki
 twitter_username: just_ellerton
 
@@ -27,11 +27,8 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: My name is Philip Shawn an undergraduate student at JKUAT studying Electronic And Computer Engineering.
+about_me_description: My name is Ellertone Ongoki an undergraduate student at JKUAT studying Electronic And Computer Engineering.
                       I am always enthusiastic about learning and implementing new technologies such as Artficial Intelligence and Cloud computing.
-                      I am also a huge fan of federated social media instances as shown in some of the open source projects I have done.
-                      In my free time I love playing CTF challenges specifically the digital forensics but I'm still learning.
-
 # SKILLS SECTION
 show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
