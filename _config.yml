@@ -10,9 +10,9 @@ baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: ellertone
+username: Ellertone
 # typing_text: This will be typed before 'scroll down for more'.
-typing_text: Student Engineer 
+typing_text: Engineer 
 # email: Your E-Mail address for the email button.
 email: ellertonemain@gmail.com
 # For every social button you want to display, set your username or userid
@@ -27,7 +27,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: My name is Ellertone Ongoki an undergraduate student at JKUAT studying Electronic And Computer Engineering.
+about_me_description: My name is Ellertone Ongoki an undergraduate student at JKUAT studying Copmuter and Electronics Engineering.
                       I am always enthusiastic about learning and implementing new technologies such as Artficial Intelligence and Cloud computing.
 # SKILLS SECTION
 show_skills_card: true
