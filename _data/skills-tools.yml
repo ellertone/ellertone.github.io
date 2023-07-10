@@ -1,22 +1,22 @@
 
 - name: Git
-  weight: 5
+  weight: 2
 
 - name: Bash
-  weight: 3
+  weight: 2
 
 - name: Jekyll
-  weight: 1
+  weight: 2
 
-#- name: Chrome DevTools
-#  weight: 2
+- name: Chrome DevTools
+  weight: 2
 
 - name: npm
   weight: 2
 
 
 - name: VS Code
-  weight: 3
+  weight: 2
 
 #- name: Postman
 #  weight: 4
