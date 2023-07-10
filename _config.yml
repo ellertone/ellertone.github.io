@@ -41,7 +41,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where I've hosted my cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://www.dropbox.com/s/  
+cv_download_link: https://www.dropbox.com/scl/fi/n9qutshc5pc9a96tytzwm/Resume.pdf?rlkey=13mof2amjb9p2wbfmolxnwjw0&dl=0
 
 # PROJECTS SECTION
 show_projects_card: true
