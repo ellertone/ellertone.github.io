@@ -12,14 +12,14 @@
 
 - title: JKUAT 
   title-url: https://www.jkuat.ac.ke/
-  date: 2020 - present 
-  subtitle: B.Sc in Electric And Computer Engineering
+  date: 2019 - 2023 
+  subtitle: B.Sc in Computer and Electronic Engineering
   tags: 
-    - tag: Electric And Computer Engineering
+    - tag: Computer and Electronic Engineering
   timeline-side: left
 
 
-- title: Migori Teachers Training College 
+- title: Nyamira County Health Records. 
   # title-url: 
   date: Mar 2020 - Jun 2020
   subtitle: Survey analyst
@@ -32,5 +32,7 @@
 - title: Rapogi High School
  # title-url: 
   date: 2016 - 2019
-  subtitle:  High school 
+  subtitle: High school
+  tags:
+    -tag: Grade - A
   timeline-side: left

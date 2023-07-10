@@ -1,12 +1,12 @@
 
-- name: React
-  weight: 4
+- name: Vue 
+  weight: 2
 
 - name: Express
   weight: 2
   
 - name: Spring
-  weight: 3
+  weight: 2
 
 #- name: Flutter
 #  weight: 2
@@ -15,4 +15,4 @@
 #  weight: 3
 
 - name: DjangoREST
-  weight: 3
+  weight: 2
